@@ -1,4 +1,4 @@
-import pymysql #mysql driver
+import flask_sqlalchemy
 
 class DataBase:
     """DataBase类"""
